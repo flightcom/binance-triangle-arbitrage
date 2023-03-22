@@ -36,6 +36,12 @@
         "REFRESH_RATE": 500
     },
 
+    "TELEGRAM": {
+        "ENABLED": true,
+        "TELEGRAM_TOKEN": "",
+        "TELEGRAM_CHAT_ID": ""
+    },
+
     "LOG": {
         "LEVEL": "debug",
         "PRETTY_PRINT": true,
